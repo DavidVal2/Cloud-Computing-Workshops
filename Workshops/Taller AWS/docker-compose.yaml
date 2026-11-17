@@ -1,0 +1,3 @@
+services:
+    my-app:
+        image: 794815034312.dkr.ecr.us-east-1.amazonaws.com/my-app:dev
